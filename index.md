@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Digital Art Gallery"
 ---
 
-I'm glad you are here. I plan to talk about ...
+*Ether, Otherworldly, and Earthly* // 2021 Collection
