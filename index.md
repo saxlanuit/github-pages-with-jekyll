@@ -2,4 +2,9 @@
 title: "Digital Art Gallery"
 ---
 
-*Ether, Otherworldly, and Earthly* // 2021 Collection
+*Issue 01* ୨୧ Austin Butler Plays Tenor Sax in a Bathroom Stall
+
+---
+theme: minimal 
+---
+
